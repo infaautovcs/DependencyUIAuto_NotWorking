@@ -1,22 +1,22 @@
 {
   "objectInfo" : {
-    "id" : "iUSMQHbQH05kUXtqLIs7uh",
-    "name" : "cmd_inlineActionDepen",
-    "type" : "DTEMPLATE",
+    "id" : "53BYtkzTtIik08o8WmS3AH",
+    "name" : "dss_inlineActionDepen",
+    "type" : "DSS",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0106LO1700000000004Y"
+        "repoHandle" : "0106LO0I00000000002V"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Multiple Lookup Condition",
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "c3ggzmFduM6lzTwyS8BPUs",
-    "name" : "FF",
+    "id" : "4GLMyFQXRHNksbCMKx1NUy",
+    "name" : "ff_swati",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -33,11 +33,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0106LO0B000000000003"
+        "repoHandle" : "0106LO0B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "test desc",
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }

@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "9l0k6nOem2OhMf5whMkjkQ",
+    "id" : "f8rd13ExKoslLE46sYMxEn",
     "name" : "MCT_inlineActionDepen",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000Q0Z000000001ZVR"
+        "repoHandle" : "0106LO0Z00000000006F"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,28 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "37RsBe9QrNOgbSiuxwHgmq",
-    "name" : "TMS33RH64001",
-    "type" : "AgentGroup",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01000Q2500000000000E"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "4lzQBY4fjE5d65fEWqswC3",
-    "name" : "ff",
+    "id" : "c3ggzmFduM6lzTwyS8BPUs",
+    "name" : "FF",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -53,18 +33,18 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000Q0B000000000FS0"
+        "repoHandle" : "0106LO0B000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : null,
+        "description" : "test desc",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
   }, {
-    "id" : "2KMQiRJAbglkTsT3MWgYU4",
+    "id" : "iUSMQHbQH05kUXtqLIs7uh",
     "name" : "cmd_inlineActionDepen",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -73,9 +53,12 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000Q170000000014OS"
+        "repoHandle" : "0106LO1700000000004Y"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "Multiple Lookup Condition",
         "contentType" : "JSON",
@@ -83,5 +66,25 @@
       }
     },
     "path" : "/Explore/InlineActionsProjectDepen"
+  }, {
+    "id" : "aqFnCRYzSOnbPgipWzgEQV",
+    "name" : "TMS33RH64001",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0106LO25000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
   } ]
 }
