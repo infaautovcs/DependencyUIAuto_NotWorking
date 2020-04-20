@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8CCYyo5X3Hne0bC8qOF3w2",
+    "id" : "1W4E0sBml1EhNhe4g3TDCE",
     "name" : "AutoDeploy_MCT1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100070Z000000000037"
+        "repoHandle" : "0100070Z00000000003B"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,6 +24,26 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
+    "id" : "aMDgamv0Bibg9XxbLKHe2b",
+    "name" : "AutoDeploy_CMD",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100071700000000003B"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/VCS_AutoDeployTest"
+  }, {
     "id" : "4YAdDLoBszrhiOfB9I4sS2",
     "name" : "FF",
     "type" : "Connection",
@@ -43,26 +63,6 @@
       }
     },
     "path" : "/SYS"
-  }, {
-    "id" : "afZlmLlJzaNioNg7R8pEcM",
-    "name" : "AutoDeploy_CMD",
-    "type" : "DTEMPLATE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01000717000000000038"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "",
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/VCS_AutoDeployTest"
   }, {
     "id" : "5a6aE1kAXUdiKpCLQrDPOV",
     "name" : "TMS33RH64001",
