@@ -1,0 +1,30 @@
+{
+  "objectInfo" : {
+    "id" : "0qFcUWnKXpcbKo2VflKv83",
+    "name" : "FilterJson_attribute",
+    "type" : "SIDataflow",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "d9ef7ad3-c1e3-4c23-a9ed-a4f68bf3a4de"
+      },
+      "contextAttributes" : [ {
+        "name" : "parentId",
+        "value" : "2b8dUc8U0ATfyFwIFTomuh"
+      }, {
+        "name" : "version",
+        "value" : "1"
+      } ],
+      "additionalInfo" : {
+        "description" : "FilterJson_attribute",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ ]
+}
