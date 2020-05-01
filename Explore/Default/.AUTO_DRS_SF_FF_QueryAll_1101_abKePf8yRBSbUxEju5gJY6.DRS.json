@@ -1,0 +1,67 @@
+{
+  "objectInfo" : {
+    "id" : "62JDm6myBobeTJnw3NKiKY",
+    "name" : "AUTO_DRS_SF_FF_QueryAll_1101_abKePf8yRBSbUxEju5gJY6",
+    "type" : "DRS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000Q0G00000000008U"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "QueryAll condition for true and false value #DRS_1101#",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "2TuefD05D2Qbu0P1m6ibqP",
+    "name" : "CSV_TGT_UTF_ASHQVMW10002",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000Q0B000000000FZO"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "CSV",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "gRoXLBTXisAb8DwCh6XOCC",
+    "name" : "O1_ORACLE10G_ASHQVMW10002",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000Q0B000000000FZP"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "O1_ORACLE10G_ASHQVMW10002",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
