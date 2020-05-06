@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8KNBQYGXXL0iTUfuggi2yg",
+    "id" : "17GoEy8GF2zd3XzE3VnReK",
     "name" : "VCS_Asset_MCT_Mapping_SQL_FF_1",
     "type" : "MTT",
     "metadata" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01002U0Z0000000000CC"
+        "repoHandle" : "01004J0Z00000000006M"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Updated Desc",
+        "description" : "Uses PC_Mapping_SQL_FF_1\r\n",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -24,27 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "7L5rs8ifrJPiPJALglX4G6",
-    "name" : "VCS_Asset_Mapping_SQL_FF_1",
-    "type" : "DTEMPLATE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01002U1700000000009D"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Pod Certification Task: Mapping has a src and a target. ",
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/VCS_PROJ_AUTO"
-  }, {
-    "id" : "2M7X50KrTcpcdhnA4KDyeU",
+    "id" : "bJFz4RGgba1gljyB5tgZuu",
     "name" : "SQL_Server_PodCertification",
     "type" : "Connection",
     "metadata" : {
@@ -53,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01002U0B00000000001R"
+        "repoHandle" : "01004J0B00000000001X"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -64,27 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "gKeTJhn384Zfphs3KfyCGI",
-    "name" : "FF_PodCertification",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01002U0B000000000007"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "1Fwb0y9aAVYgS0fz73x8wL",
+    "id" : "9iGyq8PEJJOlL9PaDxnvUw",
     "name" : "TMS47W1264001",
     "type" : "AgentGroup",
     "metadata" : {
@@ -93,13 +53,53 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01002U25000000000008"
+        "repoHandle" : "01004J25000000000006"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
         "contentType" : "JSON",
         "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "expn7VahFgplcl8rOd0eII",
+    "name" : "VCS_Asset_Mapping_SQL_FF_1",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01004J1700000000001J"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Pod Certification Task: Mapping has a src and a target. ",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/VCS_PROJ_AUTO"
+  }, {
+    "id" : "5eL7rDLYUHbbNQ307jHeEA",
+    "name" : "FF_PodCertification",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01004J0B00000000000F"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
