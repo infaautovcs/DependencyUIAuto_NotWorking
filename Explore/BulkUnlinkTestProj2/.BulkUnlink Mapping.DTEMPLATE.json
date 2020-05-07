@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "aG3Up81YfPri7W1GvVhboX",
-    "name" : "BulkUnlink_Mapping_SQL_FF_1",
+    "id" : "1Wu9hyrFRmDgGTgd2F7Ecu",
+    "name" : "BulkUnlink Mapping",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0106LO170000000000AC"
+        "repoHandle" : "0106LO170000000000AD"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Pod Certification Task: Mapping has a src and a target. ",
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -38,26 +38,6 @@
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "Flat File connection for Pod Certification Automation",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "46SHgkEiPSbfoo9Wk7m74N",
-    "name" : "SQL_Server_PodCertification",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0106LO0B00000000000K"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "SQL Server connection for Pod Certification Automation",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
