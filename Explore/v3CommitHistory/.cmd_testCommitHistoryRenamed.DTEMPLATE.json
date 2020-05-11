@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "cXbCWDpahKaiQYIwuB6QCu",
-    "name" : "cmd_testCommitHistory",
+    "name" : "cmd_testCommitHistoryRenamed",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "Multiple Lookup Condition",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
