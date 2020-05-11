@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "i0RqQPvjLaqc4HP98N4zyA",
+    "id" : "iiBaNU7zpsmeC8Tav2uakZ",
     "name" : "VCS_Asset_PCS_SQL_SQL_1",
     "type" : "PCS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01004J0K000000000028"
+        "repoHandle" : "0100JT0K00000000001K"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,27 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "bJFz4RGgba1gljyB5tgZuu",
-    "name" : "SQL_Server_PodCertification",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01004J0B00000000001X"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "SQL Server connection for Pod Certification Automation",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "9iGyq8PEJJOlL9PaDxnvUw",
+    "id" : "7SiwGJyH2kOlzextVFHQc0",
     "name" : "TMS47W1264001",
     "type" : "AgentGroup",
     "metadata" : {
@@ -53,13 +33,33 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01004J25000000000006"
+        "repoHandle" : "0100JT25000000000008"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
         "contentType" : "JSON",
         "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "5x7oq1brRisbKXxAYPp0a5",
+    "name" : "SQL_Server_PodCertification",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100JT0B00000000001O"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "SQL Server connection for Pod Certification Automation",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
