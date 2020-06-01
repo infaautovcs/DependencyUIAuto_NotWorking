@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "3RhCemCv1KOb8gEAyBY5o1",
-    "name" : "LTF_inlineActionDepen2",
+    "id" : "bsNQrowmLg9k2rqoOGDjuU",
+    "name" : "LTF_inlineActionDepen - Copy 1",
     "type" : "WORKFLOW",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0106LO0N000000000007"
+        "repoHandle" : "0106LO0N00000000001V"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : null,
-        "contentType" : "JSON",
+        "contentType" : null,
         "documentState" : "VALID"
       }
     }
@@ -44,8 +44,8 @@
     },
     "path" : "/Explore/InlineActionsProjectDepen"
   }, {
-    "id" : "8EIYujA86SDlFHlUHbAxY3",
-    "name" : "MCT_inlineActionDepen2",
+    "id" : "f8rd13ExKoslLE46sYMxEn",
+    "name" : "MCT_inlineActionDepen",
     "type" : "MTT",
     "metadata" : {
       "modelVersion" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0106LO0Z00000000006G"
+        "repoHandle" : "0106LO0Z00000000006F"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
