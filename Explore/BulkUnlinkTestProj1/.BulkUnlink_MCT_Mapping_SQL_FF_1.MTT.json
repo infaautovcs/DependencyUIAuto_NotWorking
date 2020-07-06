@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "2Io17l8MWpclWbAZnwy9kN",
+    "id" : "4kBeEhQAjYocJBnM58d16x",
     "name" : "BulkUnlink_MCT_Mapping_SQL_FF_1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0106090Z0000000000S7"
+        "repoHandle" : "0106090Z0000000000SF"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -64,7 +64,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "6uManXoUk4cgQ72kV32j8y",
+    "id" : "1FrW7wpgPi0eIQ2GnFsH0h",
     "name" : "BulkUnlink_Mapping_SQL_FF_1",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -73,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010609170000000000ZW"
+        "repoHandle" : "01060917000000000106"
       },
       "contextAttributes" : [ {
         "name" : "id",
