@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "gXMp6UaXnIBgZWT4VHONuS",
+    "id" : "iCBT7oH2fEhlaeGP6BHgIp",
     "name" : "LTF_inlineActionDepen",
     "type" : "WORKFLOW",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0126A30N000000000002"
+        "repoHandle" : "0102VZ0N000000000002"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,67 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "6dZr7H8RXFmgo0acaL4pym",
-    "name" : "drs_inlineActionDepen",
-    "type" : "DRS",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0126A30G000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/InlineActionsProjectDepen"
-  }, {
-    "id" : "8KM3Ja7IvRXdNxNf2UgnGB",
-    "name" : "MCT_inlineActionDepen",
-    "type" : "MTT",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0126A30Z000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "",
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/InlineActionsProjectDepen"
-  }, {
-    "id" : "7KFVAKTgUOYgDLIqggNE2p",
-    "name" : "PCS_inlineActionDepen",
-    "type" : "PCS",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0126A30K000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/InlineActionsProjectDepen"
-  }, {
-    "id" : "lcP9OgRawmlfdVOdojSAq8",
+    "id" : "1fB4Y3ON19al3YQXEfEiUf",
     "name" : "dss_inlineActionDepen",
     "type" : "DSS",
     "metadata" : {
@@ -93,11 +33,74 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0126A30I000000000002"
+        "repoHandle" : "0102VZ0I000000000004"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/InlineActionsProjectDepen"
+  }, {
+    "id" : "i4poDckDec1jS4t10c2eKX",
+    "name" : "PCS_inlineActionDepen",
+    "type" : "PCS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0102VZ0K000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/InlineActionsProjectDepen"
+  }, {
+    "id" : "2r68E1bKAzJjNjVBhAEDc6",
+    "name" : "MCT_inlineActionDepen",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0102VZ0Z000000000006"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/InlineActionsProjectDepen"
+  }, {
+    "id" : "1dyPS2eJbI4eyux831SPIk",
+    "name" : "drs_inlineActionDepen",
+    "type" : "DRS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0102VZ0G000000000003"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
