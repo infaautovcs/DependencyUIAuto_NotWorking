@@ -1,0 +1,67 @@
+{
+  "objectInfo" : {
+    "id" : "c2a0JVjxKAlcrdLMUEJYKd",
+    "name" : "Mapping77_with_3types_ofsequence",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001O170000000006PI"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "bLQFToc1OYxi17eR6d3EUm",
+    "name" : "R34_shared_seq_new",
+    "type" : "SequenceGenerator",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001O4200000000000A"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/MOLLY"
+  }, {
+    "id" : "8mLE0hwJlwbgsJakvLMiSb",
+    "name" : "SK_Con_FF_Auto",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001O0B000000000010"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Flat File connection for CMD Union Automation",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
