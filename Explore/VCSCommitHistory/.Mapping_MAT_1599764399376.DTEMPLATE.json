@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "ecQVkstUIkdlUzNlvlET6A",
-    "name" : "cmd_CommitHistoryAsset",
+    "id" : "1wYl18Q5jC1iuZBOyGO0ct",
+    "name" : "Mapping_MAT_1599764399376",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010AS21700000000085H"
+        "repoHandle" : "010AS21700000000087H"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Multiple Lookup Condition",
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "4u4qwvWfrSfeAx9JoLWWgF",
-    "name" : "FF",
+    "id" : "iIJxuyaDn4scJcYPpg5O4V",
+    "name" : "SQLServer_MAT_1599764399376",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -33,11 +33,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010AS20B000000000TAI"
+        "repoHandle" : "010AS20B000000000THQ"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "test desc",
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
