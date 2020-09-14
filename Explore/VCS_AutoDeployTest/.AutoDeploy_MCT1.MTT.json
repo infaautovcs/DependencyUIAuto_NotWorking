@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "4DnHCkCDxSvjil5iso9UaC",
+    "id" : "4JOKtDx3kkoe1LTM97Q2mO",
     "name" : "AutoDeploy_MCT1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01001O0Z0000000007CB"
+        "repoHandle" : "0106090Z0000000006KB"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,47 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "88P3jzSTSceduIpz3mWwmC",
+    "id" : "2jduWZ2K6edjExINmRu1Es",
+    "name" : "FF",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0106090B00000000000Y"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "test desc",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "gvdcoucRjyrk65D1I7w40Z",
+    "name" : "TMS33RH64001",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01060925000000000006"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "aTL524foW2VcKTjI3e8XCo",
     "name" : "AutoDeploy_CMD",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -33,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01001O17000000000B49"
+        "repoHandle" : "0106091700000000092L"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -43,45 +83,5 @@
       }
     },
     "path" : "/Explore/VCS_AutoDeployTest"
-  }, {
-    "id" : "eQJNnJMepEFj3sbM0H2eoy",
-    "name" : "ff",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01001O0B000000000004"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "3VCm2GIfrYSibNQRsnCYMj",
-    "name" : "TMS33RH64001",
-    "type" : "AgentGroup",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01001O2500000000000G"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/SYS"
   } ]
 }
