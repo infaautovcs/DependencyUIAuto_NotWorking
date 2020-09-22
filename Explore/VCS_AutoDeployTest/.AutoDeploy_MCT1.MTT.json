@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "7sgh1yXOOnydZGiSkXsxGT",
+    "id" : "ky6JcMICgitfZZ8FJS0CAf",
     "name" : "AutoDeploy_MCT1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01001O0Z0000000007L8"
+        "repoHandle" : "01002U0Z0000000001XU"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,27 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "eQJNnJMepEFj3sbM0H2eoy",
-    "name" : "ff",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01001O0B000000000004"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "3VCm2GIfrYSibNQRsnCYMj",
+    "id" : "2zyEbeBSXcRepjXULxHi2n",
     "name" : "TMS33RH64001",
     "type" : "AgentGroup",
     "metadata" : {
@@ -53,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01001O2500000000000G"
+        "repoHandle" : "01002U25000000000004"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -64,7 +44,27 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "8y8zCmmyzzZgYxGYblM8IS",
+    "id" : "jRsxQ4Cb6eafjW0y24dp2o",
+    "name" : "FF",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01002U0B0000000000OJ"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "test desc",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "3KiVokLQioSkidnfaPdasE",
     "name" : "AutoDeploy_CMD",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -73,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01001O17000000000E0V"
+        "repoHandle" : "01002U170000000005I7"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
