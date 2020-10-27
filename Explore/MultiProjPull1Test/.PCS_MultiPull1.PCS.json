@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8sImAf34FurbyzLnR9Xaec",
+    "id" : "3MdkjeRoUckkcmRNgop9gp",
     "name" : "PCS_MultiPull1",
     "type" : "PCS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010OFW0K00000000000Q"
+        "repoHandle" : "010OFW0K00000000000U"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -38,8 +38,8 @@
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
