@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "7TSi5gqqfsueeOSqKTF54y",
+    "id" : "41vMPtEGtlodsknaslZheU",
     "name" : "AutoDeploy_MCT1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01004J0Z000000000FB2"
+        "repoHandle" : "0100030Z00000000019P"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "1ezBLtg5WVQdnmOENM89kg",
+    "id" : "jBnEN1TipK0hq4mk3hio2C",
     "name" : "TMS33RH64001",
     "type" : "AgentGroup",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01004J25000000000004"
+        "repoHandle" : "01000325000000000006"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,7 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "9CWWwJF8aE1kN4m45Df7WH",
+    "id" : "4WXWhc7TaCuemECkEB0Pg2",
     "name" : "FF",
     "type" : "Connection",
     "metadata" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01004J0B0000000001BU"
+        "repoHandle" : "0100030B0000000001GG"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -64,7 +64,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "8aZ0hqYrq4mgSjyck7Kfar",
+    "id" : "lGiP1WBxwUKg7PpapFrzMH",
     "name" : "AutoDeploy_CMD",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -73,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01004J17000000000GA3"
+        "repoHandle" : "01000317000000000AAJ"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
