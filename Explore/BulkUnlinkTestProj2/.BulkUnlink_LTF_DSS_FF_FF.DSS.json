@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "4xNsmWnpeMjjvdoIj7v9mc",
+    "id" : "62hP6U9foGsilM0mEBILar",
     "name" : "BulkUnlink_LTF_DSS_FF_FF",
     "type" : "DSS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01004J0I0000000004JT"
+        "repoHandle" : "01026R0I0000000000IL"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "5eL7rDLYUHbbNQ307jHeEA",
+    "id" : "cfOz7TkAfOae5dRiv9yJ4h",
     "name" : "FF_PodCertification",
     "type" : "Connection",
     "metadata" : {
@@ -33,11 +33,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01004J0B00000000000F"
+        "repoHandle" : "01026R0B000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : null,
+        "description" : "Flat File connection for Pod Certification Automation",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
