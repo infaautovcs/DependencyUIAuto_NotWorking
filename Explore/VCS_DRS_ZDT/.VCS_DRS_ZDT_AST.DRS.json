@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "0OYT9AWLesGc6DBRwf70Ep",
+    "id" : "i2AJ4AXtLSOlGveP4Cd2uv",
     "name" : "VCS_DRS_ZDT_AST",
     "type" : "DRS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0102VZ0G0000000001W7"
+        "repoHandle" : "01015S0G0000000001L7"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "6WlzBvZXU2ghDS6XkixVcC",
+    "id" : "0TmFFPwmsUmdCpnBzNl2Ur",
     "name" : "CSV_TGT_UTF",
     "type" : "Connection",
     "metadata" : {
@@ -33,19 +33,19 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0102VZ0B0000000003TZ"
+        "repoHandle" : "01015S0B00000000035M"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : null,
+        "description" : "CSV",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
   }, {
-    "id" : "6PSl8SxZXqQbMZRxleUNwP",
-    "name" : "podValSQLSERVERConnectionZjE1NGVhNzMtNGU0Mi00Yz",
+    "id" : "9wTCIfTFLHFgStLMRHnlix",
+    "name" : "podValSQLSERVERConnectionZmY4ODcwMzktNjFkNS00Zm",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0102VZ0B00000000000G"
+        "repoHandle" : "01015S0B0000000003MM"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
