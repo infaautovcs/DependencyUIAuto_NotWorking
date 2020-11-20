@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "2swms9KTK9ThHeDFLdc56J",
+    "id" : "aMhoh1MGwWIlVxlYFE7EQ5",
     "name" : "VCS_DRS_ZDT_AST",
     "type" : "DRS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100XO0G00000000056O"
+        "repoHandle" : "010OFW0G0000000000IR"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "8tHsZOSQvBCfLSt4217mWh",
-    "name" : "podValSQLSERVERConnection",
+    "id" : "fNhRQK1PmKggEPeFLuSwcU",
+    "name" : "CSV_TGT_UTF",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -33,19 +33,19 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100XO0B000000000004"
+        "repoHandle" : "010OFW0B00000000014N"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : null,
+        "description" : "CSV",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
   }, {
-    "id" : "aM7nVl6Tb5dcYaOsHpUNYe",
-    "name" : "podValMappingConnectionCSV",
+    "id" : "jwqkSm7Co2jkFPYeOxITAj",
+    "name" : "S8_SQLSERVER2K8",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -53,11 +53,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100XO0B000000000AOT"
+        "repoHandle" : "010OFW0B000000000004"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "CSV",
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
