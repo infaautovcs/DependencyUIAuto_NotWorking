@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "fOwdssRqNIlc9rbEbhzpAp",
+    "id" : "38amLjPQOaxfKi3hJgomwk",
     "name" : "AutoDeploy_MCT1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01001O0Z000000000A1W"
+        "repoHandle" : "01001O0Z000000000A21"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -64,7 +64,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "7zPZVAKHv1ShTMaZIEqxQM",
+    "id" : "71hVW5CiSPOcR1oXzSpwwn",
     "name" : "AutoDeploy_CMD",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -73,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01001O17000000000NH0"
+        "repoHandle" : "01001O17000000000NHR"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
