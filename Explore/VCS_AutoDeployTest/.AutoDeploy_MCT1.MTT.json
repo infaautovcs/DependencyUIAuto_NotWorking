@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "cRK2sjSURmtlrUdBWTkvU2",
+    "id" : "5CwjWte4PWKksWCXBhqd48",
     "name" : "AutoDeploy_MCT1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01026R0Z00000000019S"
+        "repoHandle" : "01001O0Z000000000A68"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,28 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "3NVOR1Z25bPjdURxdNcoYi",
-    "name" : "AutoDeploy_CMD",
-    "type" : "DTEMPLATE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01026R170000000006J6"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "",
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/VCS_AutoDeployTest"
-  }, {
-    "id" : "26RdXKxlGmwcKXBSVEpTiL",
-    "name" : "FF",
+    "id" : "eQJNnJMepEFj3sbM0H2eoy",
+    "name" : "ff",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -53,18 +33,18 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01026R0B00000000000H"
+        "repoHandle" : "01001O0B000000000004"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "test desc",
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
   }, {
-    "id" : "3A6zkFhHak6jOU9P0Gfekn",
+    "id" : "3VCm2GIfrYSibNQRsnCYMj",
     "name" : "TMS33RH64001",
     "type" : "AgentGroup",
     "metadata" : {
@@ -73,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01026R25000000000004"
+        "repoHandle" : "01001O2500000000000G"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -83,5 +63,25 @@
       }
     },
     "path" : "/SYS"
+  }, {
+    "id" : "3lRSqALmWRKdVsAK2HkEs1",
+    "name" : "AutoDeploy_CMD",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001O17000000000O4C"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/VCS_AutoDeployTest"
   } ]
 }
