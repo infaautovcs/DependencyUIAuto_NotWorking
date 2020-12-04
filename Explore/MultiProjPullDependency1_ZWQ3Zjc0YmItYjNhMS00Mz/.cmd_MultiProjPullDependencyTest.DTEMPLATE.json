@@ -1,0 +1,47 @@
+{
+  "objectInfo" : {
+    "id" : "damczRNxOA7b7wiA1VxH8e",
+    "name" : "cmd_MultiProjPullDependencyTest",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01004J17000000000L4S"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Multiple Lookup Condition",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "9CWWwJF8aE1kN4m45Df7WH",
+    "name" : "FF",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01004J0B0000000001BU"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "test desc",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
