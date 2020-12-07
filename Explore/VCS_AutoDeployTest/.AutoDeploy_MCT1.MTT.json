@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "1hSjOncrI6sdmeLFgiDzCp",
+    "id" : "1crSQJ0VcWijFCnXF44pOB",
     "name" : "AutoDeploy_MCT1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01004J0Z000000000FYU"
+        "repoHandle" : "01026R0Z0000000001C2"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,27 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "bFqe4yC7fEujGNLbtONp4r",
+    "id" : "26RdXKxlGmwcKXBSVEpTiL",
+    "name" : "FF",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01026R0B00000000000H"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "test desc",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "8AnUhYXn6ooemxo7YHsrEI",
     "name" : "AutoDeploy_CMD",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -33,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01004J17000000000LEH"
+        "repoHandle" : "01026R170000000006LT"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,7 +64,7 @@
     },
     "path" : "/Explore/VCS_AutoDeployTest"
   }, {
-    "id" : "1ezBLtg5WVQdnmOENM89kg",
+    "id" : "3A6zkFhHak6jOU9P0Gfekn",
     "name" : "TMS33RH64001",
     "type" : "AgentGroup",
     "metadata" : {
@@ -53,32 +73,12 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01004J25000000000004"
+        "repoHandle" : "01026R25000000000004"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
         "contentType" : "Binary",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "9CWWwJF8aE1kN4m45Df7WH",
-    "name" : "FF",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01004J0B0000000001BU"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "test desc",
-        "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
     },
