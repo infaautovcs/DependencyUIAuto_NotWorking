@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "1Ad3UFZbyGUkBu6aP1zrKq",
+    "id" : "3ypo9CyepQYd3xaCbk07If",
     "name" : "AutoDeploy_MCT1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010OFW0Z00000000021H"
+        "repoHandle" : "01001O0Z000000000B4Y"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,27 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "4ktwR17OhsVljPe7pZDdev",
-    "name" : "FF",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "010OFW0B00000000000L"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "test desc",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "213O4Xaw5r5fduSTMzruee",
+    "id" : "3W4KAq0E6Kofua9YmXwkob",
     "name" : "AutoDeploy_CMD",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -53,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010OFW170000000009JB"
+        "repoHandle" : "01001O17000000000REU"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -64,7 +44,27 @@
     },
     "path" : "/Explore/VCS_AutoDeployTest"
   }, {
-    "id" : "5uUUYbATMYYeAoJqgGOtcP",
+    "id" : "eQJNnJMepEFj3sbM0H2eoy",
+    "name" : "ff",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001O0B000000000004"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "3VCm2GIfrYSibNQRsnCYMj",
     "name" : "TMS33RH64001",
     "type" : "AgentGroup",
     "metadata" : {
@@ -73,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010OFW25000000000004"
+        "repoHandle" : "01001O2500000000000G"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
