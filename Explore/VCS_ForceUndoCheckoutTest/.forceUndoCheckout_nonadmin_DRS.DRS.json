@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "kArPG6klJSTc6N8MlK1dEa",
+    "id" : "go7V3diPRSlgas8qCzy62z",
     "name" : "forceUndoCheckout_nonadmin_DRS",
     "type" : "DRS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "011JS70G000000000002"
+        "repoHandle" : "011JTU0G000000000002"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,27 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "6jmYwumc2KOhtbNWbf7W4X",
-    "name" : "RP_Sql_Server201",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "011JS70B000000000003"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "5NPXDmgQ79xhOV8rXU2N0U",
+    "id" : "cw2AaIQKIkobu5Nc7sIlEr",
     "name" : "FF",
     "type" : "Connection",
     "metadata" : {
@@ -53,11 +33,31 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "011JS70B000000000002"
+        "repoHandle" : "011JTU0B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "test desc",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "8Y288qFyKCThtKpzzFPdua",
+    "name" : "RP_Sql_Server201",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "011JTU0B000000000003"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
