@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "bqCOV9Vb4m6bL3tAduoP2S",
+    "id" : "9TVdFeLqwFWeyQcQi5bvgT",
     "name" : "AutoDeploy_MCT1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "011KN70Z000000000002"
+        "repoHandle" : "011KOR0Z000000000002"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "ivnk2z6fju7kdaAJ9WaKIF",
+    "id" : "aqE3tnvWJahcJhqpMO0CIJ",
     "name" : "TMS33RH64001",
     "type" : "AgentGroup",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "011KN725000000000002"
+        "repoHandle" : "011KOR25000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,27 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "8tM2fngkvW2hhnhJFIimsD",
-    "name" : "FF",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "011KN70B000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "test desc",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "3sQ6XW3jcETjm27TpqStam",
+    "id" : "6h9hijbglYBh2jUqtM1X6b",
     "name" : "AutoDeploy_CMD",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -73,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "011KN717000000000002"
+        "repoHandle" : "011KOR17000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -83,5 +63,25 @@
       }
     },
     "path" : "/Explore/VCS_AutoDeployTest"
+  }, {
+    "id" : "2wcro9OkmlXclzEanQ8MyC",
+    "name" : "FF",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "011KOR0B000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "test desc",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
   } ]
 }
