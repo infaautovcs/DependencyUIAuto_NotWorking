@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "khh3RIubykgi3aQw4ZeLsB",
+    "id" : "6lquEj4s74skdaegPr172L",
     "name" : "AutoDeploy_MCT1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010UST0Z000000000002"
+        "repoHandle" : "010UUG0Z000000000002"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,27 +24,27 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "6VnduNVZ18FdjjWukhilME",
-    "name" : "TMS33RH64001",
-    "type" : "AgentGroup",
+    "id" : "dqYKcgD8CCMlBZlEF01yg4",
+    "name" : "AutoDeploy_CMD",
+    "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010UST25000000000002"
+        "repoHandle" : "010UUG17000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : null,
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     },
-    "path" : "/SYS"
+    "path" : "/Explore/VCS_AutoDeployTest"
   }, {
-    "id" : "lyfPPRant6rcz9rSPp8qS8",
+    "id" : "7h6hTngRvLWbpG7LLml0il",
     "name" : "FF",
     "type" : "Connection",
     "metadata" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010UST0B000000000002"
+        "repoHandle" : "010UUG0B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -64,24 +64,24 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "9JiOcx2gx4EfwXAyKuCJon",
-    "name" : "AutoDeploy_CMD",
-    "type" : "DTEMPLATE",
+    "id" : "5cX4mZfgGoAjmtknoQW5a4",
+    "name" : "TMS33RH64001",
+    "type" : "AgentGroup",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010UST17000000000002"
+        "repoHandle" : "010UUG25000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "",
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     },
-    "path" : "/Explore/VCS_AutoDeployTest"
+    "path" : "/SYS"
   } ]
 }
