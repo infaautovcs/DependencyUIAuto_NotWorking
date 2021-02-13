@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "82K4anFDdeNbQinxX4Dkm0",
+    "id" : "2UgFDwlOiGyhrWZl2uM9u3",
     "name" : "AutoDeploy_MCT1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "011LIE0Z000000000002"
+        "repoHandle" : "010V0W0Z000000000002"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,27 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "fhJeAi6k9avcRF9v0JH2kZ",
-    "name" : "TMS33RH64001",
-    "type" : "AgentGroup",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "011LIE25000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "cyL5RSfD8YmkLq125n5xQ5",
+    "id" : "0UANJ44lQqKjAHLzqltPao",
     "name" : "AutoDeploy_CMD",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -53,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "011LIE17000000000002"
+        "repoHandle" : "010V0W17000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -64,7 +44,27 @@
     },
     "path" : "/Explore/VCS_AutoDeployTest"
   }, {
-    "id" : "bKP3SzQSCyKcmQLhCKAOeK",
+    "id" : "3vPtPqHJag2eczSce4uQUz",
+    "name" : "TMS33RH64001",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010V0W25000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "3CY8u0siDcbjzoknIhr1wQ",
     "name" : "FF",
     "type" : "Connection",
     "metadata" : {
@@ -73,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "011LIE0B000000000002"
+        "repoHandle" : "010V0W0B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
