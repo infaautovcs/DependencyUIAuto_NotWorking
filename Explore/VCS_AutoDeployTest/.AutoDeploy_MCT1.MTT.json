@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "9zjDxTve0uFjdcTkPQPrSw",
+    "id" : "4s9d8WxzOume8njewqfyQ8",
     "name" : "AutoDeploy_MCT1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103MF0Z000000000002"
+        "repoHandle" : "0103MK0Z000000000002"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,27 +24,27 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "7v7W1ErcAPyjqqePwtkU0x",
-    "name" : "FF",
-    "type" : "Connection",
+    "id" : "5xq25UpduOVh8SvSJN53oB",
+    "name" : "AutoDeploy_CMD",
+    "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103MF0B000000000002"
+        "repoHandle" : "0103MK17000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "test desc",
+        "description" : "",
         "contentType" : "JSON",
-        "documentState" : "COMPLETE"
+        "documentState" : "VALID"
       }
     },
-    "path" : "/SYS"
+    "path" : "/Explore/VCS_AutoDeployTest"
   }, {
-    "id" : "4uqXj6G3v85bnsOFMvCOsK",
+    "id" : "8QzOAur4xIFhIIPqY0xXS5",
     "name" : "TMS33RH64001",
     "type" : "AgentGroup",
     "metadata" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103MF25000000000002"
+        "repoHandle" : "0103MK25000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -64,24 +64,24 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "21ArZjdUTNshxmRDFmTCYP",
-    "name" : "AutoDeploy_CMD",
-    "type" : "DTEMPLATE",
+    "id" : "eWCZJN8BdmscfQKGln70oG",
+    "name" : "FF",
+    "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103MF17000000000002"
+        "repoHandle" : "0103MK0B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "",
+        "description" : "test desc",
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "COMPLETE"
       }
     },
-    "path" : "/Explore/VCS_AutoDeployTest"
+    "path" : "/SYS"
   } ]
 }
