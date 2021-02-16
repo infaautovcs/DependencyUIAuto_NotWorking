@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "ho63cOgcCo6h1ASQqvJms1",
+    "id" : "8JrfelH0FABiHIKlr5T2Sw",
     "name" : "AutoDeploy_MCT1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100KQ0Z000000000002"
+        "repoHandle" : "011LXV0Z000000000002"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,27 +24,27 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "3AxDf3YWwiMfR0EhNkWpYx",
-    "name" : "FF",
-    "type" : "Connection",
+    "id" : "2l3QuG1E0WklDi6Sl7zxwi",
+    "name" : "TMS33RH64001",
+    "type" : "AgentGroup",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100KQ0B000000000002"
+        "repoHandle" : "011LXV25000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "test desc",
+        "description" : null,
         "contentType" : "JSON",
-        "documentState" : "COMPLETE"
+        "documentState" : "VALID"
       }
     },
     "path" : "/SYS"
   }, {
-    "id" : "30aC8vSqMiegbWCpOvUrgZ",
+    "id" : "0VPLKZmQoANcL23cnFfmAy",
     "name" : "AutoDeploy_CMD",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100KQ17000000000002"
+        "repoHandle" : "011LXV17000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -64,22 +64,22 @@
     },
     "path" : "/Explore/VCS_AutoDeployTest"
   }, {
-    "id" : "1PqwXAAlxIOfpYqYpaSLgF",
-    "name" : "TMS33RH64001",
-    "type" : "AgentGroup",
+    "id" : "4TD0LMmg4Unf1HMGuPjEYe",
+    "name" : "FF",
+    "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100KQ25000000000002"
+        "repoHandle" : "011LXV0B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : null,
+        "description" : "test desc",
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
