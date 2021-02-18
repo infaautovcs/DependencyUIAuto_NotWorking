@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "25vPu5BFZaMiqNuyLy9B0F",
+    "id" : "0sA37wvkM0QlAiBrOdaKq3",
     "name" : "AutoDeploy_MCT1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "011M420Z000000000002"
+        "repoHandle" : "010VIQ0Z000000000002"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "lPHknWY08wEfhgSEcXBDWq",
+    "id" : "3Dz2r3jzW2ddarUIqBhCM8",
     "name" : "AutoDeploy_CMD",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "011M4217000000000002"
+        "repoHandle" : "010VIQ17000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,27 +44,7 @@
     },
     "path" : "/Explore/VCS_AutoDeployTest"
   }, {
-    "id" : "3fWag4OWH60iE6bp2OtbyI",
-    "name" : "TMS33RH64001",
-    "type" : "AgentGroup",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "011M4225000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "50S3OYrIc2zgnqQZOKcACj",
+    "id" : "euud10gBmARhWtjbYKRP0I",
     "name" : "FF",
     "type" : "Connection",
     "metadata" : {
@@ -73,13 +53,33 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "011M420B000000000002"
+        "repoHandle" : "010VIQ0B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "test desc",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "aIvV3fJnS8qkb644MrwLKX",
+    "name" : "TMS33RH64001",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010VIQ25000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
       }
     },
     "path" : "/SYS"
