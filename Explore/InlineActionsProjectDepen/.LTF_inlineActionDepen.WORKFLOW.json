@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "1GA9LvLBgghlUkqTo1U9Ch",
+    "id" : "6QVKfGLuu0tgt5pXxGGc44",
     "name" : "LTF_inlineActionDepen",
     "type" : "WORKFLOW",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010OFW0N0000000000ID"
+        "repoHandle" : "010OFW0N0000000000IP"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,6 +24,26 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
+    "id" : "0Rv6H5eapKpeWQcEFBjUaf",
+    "name" : "MCT_inlineActionDepen",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OFW0Z0000000002GG"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/InlineActionsProjectDepen"
+  }, {
     "id" : "axTFe97K72JjANPGjc7baI",
     "name" : "PCS_inlineActionDepen",
     "type" : "PCS",
@@ -38,26 +58,6 @@
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/InlineActionsProjectDepen"
-  }, {
-    "id" : "hYcvXBuRoMti03YTBskp6j",
-    "name" : "MCT_inlineActionDepen",
-    "type" : "MTT",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "010OFW0Z0000000002G9"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
